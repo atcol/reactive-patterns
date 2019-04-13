@@ -1,5 +1,5 @@
 # reactive-patterns
-A repo. of examples and demonstrations of the Reactive Patterns
+A repo. of resources and demonstrations of the Reactive Patterns.
 
 ## Resources
 
